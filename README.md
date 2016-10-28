@@ -1,5 +1,5 @@
 # Welcome to Rails
-
+added by zhouzhou ：在 Ruby 中使用的一种代表性的开源 Web 框架
 Rails is a web-application framework that includes everything needed to
 create database-backed web applications according to the
 [Model-View-Controller (MVC)](http://en.wikipedia.org/wiki/Model-view-controller)
